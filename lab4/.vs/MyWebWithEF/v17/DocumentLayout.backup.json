@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\uni\\web-appilcation\\lab4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F815852-53C0-45A2-B8E4-0368A5C92C25}|MyWebWithEF\\MyWebWithEF.csproj|d:\\uni\\web-appilcation\\lab4\\mywebwithef\\controllers\\public\\base\\publicapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F815852-53C0-45A2-B8E4-0368A5C92C25}|MyWebWithEF\\MyWebWithEF.csproj|solutionrelative:mywebwithef\\controllers\\public\\base\\publicapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F815852-53C0-45A2-B8E4-0368A5C92C25}|MyWebWithEF\\MyWebWithEF.csproj|d:\\uni\\web-appilcation\\lab4\\mywebwithef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F815852-53C0-45A2-B8E4-0368A5C92C25}|MyWebWithEF\\MyWebWithEF.csproj|solutionrelative:mywebwithef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D06A1C3-8C30-4D5E-BD23-911B9229E46F}|MyWebWithEF.BLL\\MyWebWithEF.BLL.csproj|d:\\uni\\web-appilcation\\lab4\\mywebwithef.bll\\components\\authcomponent\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D06A1C3-8C30-4D5E-BD23-911B9229E46F}|MyWebWithEF.BLL\\MyWebWithEF.BLL.csproj|solutionrelative:mywebwithef.bll\\components\\authcomponent\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F815852-53C0-45A2-B8E4-0368A5C92C25}|MyWebWithEF\\MyWebWithEF.csproj|d:\\uni\\web-appilcation\\lab4\\mywebwithef\\controllers\\customer\\advicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F815852-53C0-45A2-B8E4-0368A5C92C25}|MyWebWithEF\\MyWebWithEF.csproj|solutionrelative:mywebwithef\\controllers\\customer\\advicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F815852-53C0-45A2-B8E4-0368A5C92C25}|MyWebWithEF\\MyWebWithEF.csproj|d:\\uni\\web-appilcation\\lab4\\mywebwithef\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1F815852-53C0-45A2-B8E4-0368A5C92C25}|MyWebWithEF\\MyWebWithEF.csproj|solutionrelative:mywebwithef\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F815852-53C0-45A2-B8E4-0368A5C92C25}|MyWebWithEF\\MyWebWithEF.csproj|d:\\uni\\web-appilcation\\lab4\\mywebwithef\\mywebwithef.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1F815852-53C0-45A2-B8E4-0368A5C92C25}|MyWebWithEF\\MyWebWithEF.csproj|solutionrelative:mywebwithef\\mywebwithef.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PublicApiController.cs",
+              "DocumentMoniker": "D:\\uni\\web-appilcation\\lab4\\MyWebWithEF\\Controllers\\Public\\Base\\PublicApiController.cs",
+              "RelativeDocumentMoniker": "MyWebWithEF\\Controllers\\Public\\Base\\PublicApiController.cs",
+              "ToolTip": "D:\\uni\\web-appilcation\\lab4\\MyWebWithEF\\Controllers\\Public\\Base\\PublicApiController.cs",
+              "RelativeToolTip": "MyWebWithEF\\Controllers\\Public\\Base\\PublicApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T13:40:58.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\uni\\web-appilcation\\lab4\\MyWebWithEF\\Program.cs",
+              "RelativeDocumentMoniker": "MyWebWithEF\\Program.cs",
+              "ToolTip": "D:\\uni\\web-appilcation\\lab4\\MyWebWithEF\\Program.cs",
+              "RelativeToolTip": "MyWebWithEF\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T13:40:45.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\uni\\web-appilcation\\lab4\\MyWebWithEF.BLL\\Components\\AuthComponent\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "MyWebWithEF.BLL\\Components\\AuthComponent\\Services\\AuthService.cs",
+              "ToolTip": "D:\\uni\\web-appilcation\\lab4\\MyWebWithEF.BLL\\Components\\AuthComponent\\Services\\AuthService.cs",
+              "RelativeToolTip": "MyWebWithEF.BLL\\Components\\AuthComponent\\Services\\AuthService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCAAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T13:26:23.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdvicesController.cs",
+              "DocumentMoniker": "D:\\uni\\web-appilcation\\lab4\\MyWebWithEF\\Controllers\\Customer\\AdvicesController.cs",
+              "RelativeDocumentMoniker": "MyWebWithEF\\Controllers\\Customer\\AdvicesController.cs",
+              "ToolTip": "D:\\uni\\web-appilcation\\lab4\\MyWebWithEF\\Controllers\\Customer\\AdvicesController.cs",
+              "RelativeToolTip": "MyWebWithEF\\Controllers\\Customer\\AdvicesController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T13:26:15.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\uni\\web-appilcation\\lab4\\MyWebWithEF\\appsettings.json",
+              "RelativeDocumentMoniker": "MyWebWithEF\\appsettings.json",
+              "ToolTip": "D:\\uni\\web-appilcation\\lab4\\MyWebWithEF\\appsettings.json",
+              "RelativeToolTip": "MyWebWithEF\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-07T13:26:01.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyWebWithEF.csproj",
+              "DocumentMoniker": "D:\\uni\\web-appilcation\\lab4\\MyWebWithEF\\MyWebWithEF.csproj",
+              "RelativeDocumentMoniker": "MyWebWithEF\\MyWebWithEF.csproj",
+              "ToolTip": "D:\\uni\\web-appilcation\\lab4\\MyWebWithEF\\MyWebWithEF.csproj",
+              "RelativeToolTip": "MyWebWithEF\\MyWebWithEF.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-07T13:25:51.606Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

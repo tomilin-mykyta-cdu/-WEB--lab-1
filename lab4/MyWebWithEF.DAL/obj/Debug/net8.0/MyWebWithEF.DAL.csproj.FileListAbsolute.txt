@@ -1,0 +1,28 @@
+\\Mac\Home\Downloads\web-application-main\lab 4\MyWebWithEF.DAL\bin\Debug\net8.0\MyWebWithEF.DAL.deps.json
+\\Mac\Home\Downloads\web-application-main\lab 4\MyWebWithEF.DAL\bin\Debug\net8.0\MyWebWithEF.DAL.runtimeconfig.json
+\\Mac\Home\Downloads\web-application-main\lab 4\MyWebWithEF.DAL\bin\Debug\net8.0\MyWebWithEF.DAL.dll
+\\Mac\Home\Downloads\web-application-main\lab 4\MyWebWithEF.DAL\bin\Debug\net8.0\MyWebWithEF.DAL.pdb
+\\Mac\Home\Downloads\web-application-main\lab 4\MyWebWithEF.DAL\obj\Debug\net8.0\MyWebWithEF.DAL.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\web-application-main\lab 4\MyWebWithEF.DAL\obj\Debug\net8.0\MyWebWithEF.DAL.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Downloads\web-application-main\lab 4\MyWebWithEF.DAL\obj\Debug\net8.0\MyWebWithEF.DAL.AssemblyInfoInputs.cache
+\\Mac\Home\Downloads\web-application-main\lab 4\MyWebWithEF.DAL\obj\Debug\net8.0\MyWebWithEF.DAL.AssemblyInfo.cs
+\\Mac\Home\Downloads\web-application-main\lab 4\MyWebWithEF.DAL\obj\Debug\net8.0\MyWebWithEF.DAL.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\web-application-main\lab 4\MyWebWithEF.DAL\obj\Debug\net8.0\MyWebWithEF.DAL.dll
+\\Mac\Home\Downloads\web-application-main\lab 4\MyWebWithEF.DAL\obj\Debug\net8.0\refint\MyWebWithEF.DAL.dll
+\\Mac\Home\Downloads\web-application-main\lab 4\MyWebWithEF.DAL\obj\Debug\net8.0\MyWebWithEF.DAL.pdb
+\\Mac\Home\Downloads\web-application-main\lab 4\MyWebWithEF.DAL\obj\Debug\net8.0\MyWebWithEF.DAL.genruntimeconfig.cache
+\\Mac\Home\Downloads\web-application-main\lab 4\MyWebWithEF.DAL\obj\Debug\net8.0\ref\MyWebWithEF.DAL.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF.DAL\bin\Debug\net8.0\MyWebWithEF.DAL.deps.json
+D:\uni\web-appilcation\lab4\MyWebWithEF.DAL\bin\Debug\net8.0\MyWebWithEF.DAL.runtimeconfig.json
+D:\uni\web-appilcation\lab4\MyWebWithEF.DAL\bin\Debug\net8.0\MyWebWithEF.DAL.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF.DAL\bin\Debug\net8.0\MyWebWithEF.DAL.pdb
+D:\uni\web-appilcation\lab4\MyWebWithEF.DAL\obj\Debug\net8.0\MyWebWithEF.DAL.csproj.AssemblyReference.cache
+D:\uni\web-appilcation\lab4\MyWebWithEF.DAL\obj\Debug\net8.0\MyWebWithEF.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\uni\web-appilcation\lab4\MyWebWithEF.DAL\obj\Debug\net8.0\MyWebWithEF.DAL.AssemblyInfoInputs.cache
+D:\uni\web-appilcation\lab4\MyWebWithEF.DAL\obj\Debug\net8.0\MyWebWithEF.DAL.AssemblyInfo.cs
+D:\uni\web-appilcation\lab4\MyWebWithEF.DAL\obj\Debug\net8.0\MyWebWithEF.DAL.csproj.CoreCompileInputs.cache
+D:\uni\web-appilcation\lab4\MyWebWithEF.DAL\obj\Debug\net8.0\MyWebWithEF.DAL.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF.DAL\obj\Debug\net8.0\refint\MyWebWithEF.DAL.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF.DAL\obj\Debug\net8.0\MyWebWithEF.DAL.pdb
+D:\uni\web-appilcation\lab4\MyWebWithEF.DAL\obj\Debug\net8.0\MyWebWithEF.DAL.genruntimeconfig.cache
+D:\uni\web-appilcation\lab4\MyWebWithEF.DAL\obj\Debug\net8.0\ref\MyWebWithEF.DAL.dll

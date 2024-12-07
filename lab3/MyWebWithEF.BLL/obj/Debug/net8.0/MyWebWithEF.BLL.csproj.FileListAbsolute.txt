@@ -1,0 +1,68 @@
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF.BLL\bin\Debug\net8.0\MyWebWithEF.BLL.deps.json
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF.BLL\bin\Debug\net8.0\MyWebWithEF.BLL.runtimeconfig.json
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF.BLL\bin\Debug\net8.0\MyWebWithEF.BLL.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF.BLL\bin\Debug\net8.0\MyWebWithEF.BLL.pdb
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF.BLL\bin\Debug\net8.0\MyWebWithEF.DAL.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF.BLL\bin\Debug\net8.0\MyWebWithEF.DAL.pdb
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF.BLL\obj\Debug\net8.0\MyWebWithEF.BLL.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF.BLL\obj\Debug\net8.0\MyWebWithEF.BLL.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF.BLL\obj\Debug\net8.0\MyWebWithEF.BLL.AssemblyInfoInputs.cache
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF.BLL\obj\Debug\net8.0\MyWebWithEF.BLL.AssemblyInfo.cs
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF.BLL\obj\Debug\net8.0\MyWebWithEF.BLL.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF.BLL\obj\Debug\net8.0\MyWebWit.BABC3E16.Up2Date
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF.BLL\obj\Debug\net8.0\MyWebWithEF.BLL.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF.BLL\obj\Debug\net8.0\refint\MyWebWithEF.BLL.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF.BLL\obj\Debug\net8.0\MyWebWithEF.BLL.pdb
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF.BLL\obj\Debug\net8.0\MyWebWithEF.BLL.genruntimeconfig.cache
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF.BLL\obj\Debug\net8.0\ref\MyWebWithEF.BLL.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF.BLL\obj\Debug\net8.0\MyWebWithEF.BLL.csproj.AssemblyReference.cache
+D:\uni\web-appilcation\lab3\MyWebWithEF.BLL\obj\Debug\net8.0\MyWebWithEF.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\uni\web-appilcation\lab3\MyWebWithEF.BLL\obj\Debug\net8.0\MyWebWithEF.BLL.AssemblyInfoInputs.cache
+D:\uni\web-appilcation\lab3\MyWebWithEF.BLL\obj\Debug\net8.0\MyWebWithEF.BLL.AssemblyInfo.cs
+D:\uni\web-appilcation\lab3\MyWebWithEF.BLL\obj\Debug\net8.0\MyWebWithEF.BLL.csproj.CoreCompileInputs.cache
+D:\uni\web-appilcation\lab3\MyWebWithEF.BLL\obj\Debug\net8.0\MyWebWithEF.BLL.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF.BLL\obj\Debug\net8.0\refint\MyWebWithEF.BLL.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF.BLL\obj\Debug\net8.0\MyWebWithEF.BLL.pdb
+D:\uni\web-appilcation\lab3\MyWebWithEF.BLL\bin\Debug\net8.0\MyWebWithEF.BLL.deps.json
+D:\uni\web-appilcation\lab3\MyWebWithEF.BLL\bin\Debug\net8.0\MyWebWithEF.BLL.runtimeconfig.json
+D:\uni\web-appilcation\lab3\MyWebWithEF.BLL\bin\Debug\net8.0\MyWebWithEF.BLL.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF.BLL\bin\Debug\net8.0\MyWebWithEF.BLL.pdb
+D:\uni\web-appilcation\lab3\MyWebWithEF.BLL\bin\Debug\net8.0\MyWebWithEF.DAL.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF.BLL\bin\Debug\net8.0\MyWebWithEF.DAL.pdb
+D:\uni\web-appilcation\lab3\MyWebWithEF.BLL\obj\Debug\net8.0\MyWebWit.BABC3E16.Up2Date
+D:\uni\web-appilcation\lab3\MyWebWithEF.BLL\obj\Debug\net8.0\MyWebWithEF.BLL.genruntimeconfig.cache
+D:\uni\web-appilcation\lab3\MyWebWithEF.BLL\obj\Debug\net8.0\ref\MyWebWithEF.BLL.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF.BLL\bin\Debug\net8.0\MyWebWithEF.BLL.deps.json
+D:\uni\web-appilcation\lab4\MyWebWithEF.BLL\bin\Debug\net8.0\MyWebWithEF.BLL.runtimeconfig.json
+D:\uni\web-appilcation\lab4\MyWebWithEF.BLL\bin\Debug\net8.0\MyWebWithEF.BLL.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF.BLL\bin\Debug\net8.0\MyWebWithEF.BLL.pdb
+D:\uni\web-appilcation\lab4\MyWebWithEF.BLL\bin\Debug\net8.0\MyWebWithEF.DAL.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF.BLL\bin\Debug\net8.0\MyWebWithEF.DAL.pdb
+D:\uni\web-appilcation\lab4\MyWebWithEF.BLL\obj\Debug\net8.0\MyWebWithEF.BLL.csproj.AssemblyReference.cache
+D:\uni\web-appilcation\lab4\MyWebWithEF.BLL\obj\Debug\net8.0\MyWebWithEF.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\uni\web-appilcation\lab4\MyWebWithEF.BLL\obj\Debug\net8.0\MyWebWithEF.BLL.AssemblyInfoInputs.cache
+D:\uni\web-appilcation\lab4\MyWebWithEF.BLL\obj\Debug\net8.0\MyWebWithEF.BLL.AssemblyInfo.cs
+D:\uni\web-appilcation\lab4\MyWebWithEF.BLL\obj\Debug\net8.0\MyWebWithEF.BLL.csproj.CoreCompileInputs.cache
+D:\uni\web-appilcation\lab4\MyWebWithEF.BLL\obj\Debug\net8.0\MyWebWit.BABC3E16.Up2Date
+D:\uni\web-appilcation\lab4\MyWebWithEF.BLL\obj\Debug\net8.0\MyWebWithEF.BLL.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF.BLL\obj\Debug\net8.0\refint\MyWebWithEF.BLL.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF.BLL\obj\Debug\net8.0\MyWebWithEF.BLL.pdb
+D:\uni\web-appilcation\lab4\MyWebWithEF.BLL\obj\Debug\net8.0\MyWebWithEF.BLL.genruntimeconfig.cache
+D:\uni\web-appilcation\lab4\MyWebWithEF.BLL\obj\Debug\net8.0\ref\MyWebWithEF.BLL.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF.BLL\bin\Debug\net8.0\MyWebWithEF.BLL.deps.json
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF.BLL\bin\Debug\net8.0\MyWebWithEF.BLL.runtimeconfig.json
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF.BLL\bin\Debug\net8.0\MyWebWithEF.BLL.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF.BLL\bin\Debug\net8.0\MyWebWithEF.BLL.pdb
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF.BLL\bin\Debug\net8.0\MyWebWithEF.DAL.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF.BLL\bin\Debug\net8.0\MyWebWithEF.DAL.pdb
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF.BLL\obj\Debug\net8.0\MyWebWithEF.BLL.csproj.AssemblyReference.cache
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF.BLL\obj\Debug\net8.0\MyWebWithEF.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF.BLL\obj\Debug\net8.0\MyWebWithEF.BLL.AssemblyInfoInputs.cache
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF.BLL\obj\Debug\net8.0\MyWebWithEF.BLL.AssemblyInfo.cs
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF.BLL\obj\Debug\net8.0\MyWebWithEF.BLL.csproj.CoreCompileInputs.cache
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF.BLL\obj\Debug\net8.0\MyWebWit.BABC3E16.Up2Date
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF.BLL\obj\Debug\net8.0\MyWebWithEF.BLL.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF.BLL\obj\Debug\net8.0\refint\MyWebWithEF.BLL.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF.BLL\obj\Debug\net8.0\MyWebWithEF.BLL.pdb
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF.BLL\obj\Debug\net8.0\MyWebWithEF.BLL.genruntimeconfig.cache
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF.BLL\obj\Debug\net8.0\ref\MyWebWithEF.BLL.dll

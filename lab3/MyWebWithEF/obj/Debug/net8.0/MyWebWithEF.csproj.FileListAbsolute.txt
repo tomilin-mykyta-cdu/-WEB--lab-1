@@ -1,0 +1,484 @@
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\appsettings.Development.json
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\appsettings.json
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\MyWebWithEF.exe
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\MyWebWithEF.deps.json
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\MyWebWithEF.runtimeconfig.json
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\MyWebWithEF.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\MyWebWithEF.pdb
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\AutoMapper.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\Humanizer.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\Microsoft.OpenApi.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\Mono.TextTemplating.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\Npgsql.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\System.CodeDom.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\System.Composition.Convention.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\System.Composition.Hosting.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\System.Composition.Runtime.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\System.Composition.TypedParts.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\MyWebWithEF.BLL.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\MyWebWithEF.DAL.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\MyWebWithEF.BLL.pdb
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\bin\Debug\net8.0\MyWebWithEF.DAL.pdb
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\obj\Debug\net8.0\MyWebWithEF.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\obj\Debug\net8.0\MyWebWithEF.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\obj\Debug\net8.0\MyWebWithEF.AssemblyInfoInputs.cache
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\obj\Debug\net8.0\MyWebWithEF.AssemblyInfo.cs
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\obj\Debug\net8.0\MyWebWithEF.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\obj\Debug\net8.0\MyWebWithEF.MvcApplicationPartsAssemblyInfo.cs
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\obj\Debug\net8.0\MyWebWithEF.MvcApplicationPartsAssemblyInfo.cache
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\obj\Debug\net8.0\staticwebassets.build.json
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\obj\Debug\net8.0\staticwebassets.development.json
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\obj\Debug\net8.0\staticwebassets\msbuild.MyWebWithEF.Microsoft.AspNetCore.StaticWebAssets.props
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\obj\Debug\net8.0\staticwebassets\msbuild.build.MyWebWithEF.props
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MyWebWithEF.props
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MyWebWithEF.props
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\obj\Debug\net8.0\staticwebassets.pack.json
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\obj\Debug\net8.0\scopedcss\bundle\MyWebWithEF.styles.css
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\obj\Debug\net8.0\MyWebWit.AEFE2247.Up2Date
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\obj\Debug\net8.0\MyWebWithEF.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\obj\Debug\net8.0\refint\MyWebWithEF.dll
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\obj\Debug\net8.0\MyWebWithEF.pdb
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\obj\Debug\net8.0\MyWebWithEF.genruntimeconfig.cache
+\\Mac\Home\Downloads\web-application-main\lab 3\MyWebWithEF\obj\Debug\net8.0\ref\MyWebWithEF.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF\obj\Debug\net8.0\MyWebWithEF.csproj.AssemblyReference.cache
+D:\uni\web-appilcation\lab3\MyWebWithEF\obj\Debug\net8.0\MyWebWithEF.GeneratedMSBuildEditorConfig.editorconfig
+D:\uni\web-appilcation\lab3\MyWebWithEF\obj\Debug\net8.0\MyWebWithEF.AssemblyInfoInputs.cache
+D:\uni\web-appilcation\lab3\MyWebWithEF\obj\Debug\net8.0\MyWebWithEF.AssemblyInfo.cs
+D:\uni\web-appilcation\lab3\MyWebWithEF\obj\Debug\net8.0\MyWebWithEF.csproj.CoreCompileInputs.cache
+D:\uni\web-appilcation\lab3\MyWebWithEF\obj\Debug\net8.0\MyWebWithEF.MvcApplicationPartsAssemblyInfo.cs
+D:\uni\web-appilcation\lab3\MyWebWithEF\obj\Debug\net8.0\MyWebWithEF.MvcApplicationPartsAssemblyInfo.cache
+D:\uni\web-appilcation\lab3\MyWebWithEF\obj\Debug\net8.0\MyWebWithEF.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF\obj\Debug\net8.0\refint\MyWebWithEF.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF\obj\Debug\net8.0\MyWebWithEF.pdb
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\appsettings.Development.json
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\appsettings.json
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\MyWebWithEF.staticwebassets.endpoints.json
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\MyWebWithEF.exe
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\MyWebWithEF.deps.json
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\MyWebWithEF.runtimeconfig.json
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\MyWebWithEF.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\MyWebWithEF.pdb
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\AutoMapper.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\Humanizer.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\Npgsql.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\System.CodeDom.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\MyWebWithEF.BLL.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\MyWebWithEF.DAL.dll
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\MyWebWithEF.BLL.pdb
+D:\uni\web-appilcation\lab3\MyWebWithEF\bin\Debug\net8.0\MyWebWithEF.DAL.pdb
+D:\uni\web-appilcation\lab3\MyWebWithEF\obj\Debug\net8.0\scopedcss\bundle\MyWebWithEF.styles.css
+D:\uni\web-appilcation\lab3\MyWebWithEF\obj\Debug\net8.0\staticwebassets.build.json
+D:\uni\web-appilcation\lab3\MyWebWithEF\obj\Debug\net8.0\staticwebassets.development.json
+D:\uni\web-appilcation\lab3\MyWebWithEF\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\uni\web-appilcation\lab3\MyWebWithEF\obj\Debug\net8.0\staticwebassets\msbuild.MyWebWithEF.Microsoft.AspNetCore.StaticWebAssets.props
+D:\uni\web-appilcation\lab3\MyWebWithEF\obj\Debug\net8.0\staticwebassets\msbuild.MyWebWithEF.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\uni\web-appilcation\lab3\MyWebWithEF\obj\Debug\net8.0\staticwebassets\msbuild.build.MyWebWithEF.props
+D:\uni\web-appilcation\lab3\MyWebWithEF\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MyWebWithEF.props
+D:\uni\web-appilcation\lab3\MyWebWithEF\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MyWebWithEF.props
+D:\uni\web-appilcation\lab3\MyWebWithEF\obj\Debug\net8.0\staticwebassets.pack.json
+D:\uni\web-appilcation\lab3\MyWebWithEF\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\uni\web-appilcation\lab3\MyWebWithEF\obj\Debug\net8.0\MyWebWit.AEFE2247.Up2Date
+D:\uni\web-appilcation\lab3\MyWebWithEF\obj\Debug\net8.0\MyWebWithEF.genruntimeconfig.cache
+D:\uni\web-appilcation\lab3\MyWebWithEF\obj\Debug\net8.0\ref\MyWebWithEF.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\appsettings.Development.json
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\appsettings.json
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\MyWebWithEF.staticwebassets.endpoints.json
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\MyWebWithEF.exe
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\MyWebWithEF.deps.json
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\MyWebWithEF.runtimeconfig.json
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\MyWebWithEF.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\MyWebWithEF.pdb
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\AutoMapper.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\Humanizer.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\Npgsql.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\System.CodeDom.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\MyWebWithEF.BLL.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\MyWebWithEF.DAL.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\MyWebWithEF.BLL.pdb
+D:\uni\web-appilcation\lab4\MyWebWithEF\bin\Debug\net8.0\MyWebWithEF.DAL.pdb
+D:\uni\web-appilcation\lab4\MyWebWithEF\obj\Debug\net8.0\MyWebWithEF.csproj.AssemblyReference.cache
+D:\uni\web-appilcation\lab4\MyWebWithEF\obj\Debug\net8.0\MyWebWithEF.GeneratedMSBuildEditorConfig.editorconfig
+D:\uni\web-appilcation\lab4\MyWebWithEF\obj\Debug\net8.0\MyWebWithEF.AssemblyInfoInputs.cache
+D:\uni\web-appilcation\lab4\MyWebWithEF\obj\Debug\net8.0\MyWebWithEF.AssemblyInfo.cs
+D:\uni\web-appilcation\lab4\MyWebWithEF\obj\Debug\net8.0\MyWebWithEF.csproj.CoreCompileInputs.cache
+D:\uni\web-appilcation\lab4\MyWebWithEF\obj\Debug\net8.0\MyWebWithEF.MvcApplicationPartsAssemblyInfo.cs
+D:\uni\web-appilcation\lab4\MyWebWithEF\obj\Debug\net8.0\MyWebWithEF.MvcApplicationPartsAssemblyInfo.cache
+D:\uni\web-appilcation\lab4\MyWebWithEF\obj\Debug\net8.0\scopedcss\bundle\MyWebWithEF.styles.css
+D:\uni\web-appilcation\lab4\MyWebWithEF\obj\Debug\net8.0\staticwebassets.build.json
+D:\uni\web-appilcation\lab4\MyWebWithEF\obj\Debug\net8.0\staticwebassets.development.json
+D:\uni\web-appilcation\lab4\MyWebWithEF\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\uni\web-appilcation\lab4\MyWebWithEF\obj\Debug\net8.0\staticwebassets\msbuild.MyWebWithEF.Microsoft.AspNetCore.StaticWebAssets.props
+D:\uni\web-appilcation\lab4\MyWebWithEF\obj\Debug\net8.0\staticwebassets\msbuild.MyWebWithEF.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\uni\web-appilcation\lab4\MyWebWithEF\obj\Debug\net8.0\staticwebassets\msbuild.build.MyWebWithEF.props
+D:\uni\web-appilcation\lab4\MyWebWithEF\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MyWebWithEF.props
+D:\uni\web-appilcation\lab4\MyWebWithEF\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MyWebWithEF.props
+D:\uni\web-appilcation\lab4\MyWebWithEF\obj\Debug\net8.0\staticwebassets.pack.json
+D:\uni\web-appilcation\lab4\MyWebWithEF\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\uni\web-appilcation\lab4\MyWebWithEF\obj\Debug\net8.0\MyWebWit.AEFE2247.Up2Date
+D:\uni\web-appilcation\lab4\MyWebWithEF\obj\Debug\net8.0\MyWebWithEF.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF\obj\Debug\net8.0\refint\MyWebWithEF.dll
+D:\uni\web-appilcation\lab4\MyWebWithEF\obj\Debug\net8.0\MyWebWithEF.pdb
+D:\uni\web-appilcation\lab4\MyWebWithEF\obj\Debug\net8.0\MyWebWithEF.genruntimeconfig.cache
+D:\uni\web-appilcation\lab4\MyWebWithEF\obj\Debug\net8.0\ref\MyWebWithEF.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\appsettings.Development.json
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\appsettings.json
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\MyWebWithEF.staticwebassets.endpoints.json
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\MyWebWithEF.exe
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\MyWebWithEF.deps.json
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\MyWebWithEF.runtimeconfig.json
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\MyWebWithEF.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\MyWebWithEF.pdb
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\AutoMapper.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\Humanizer.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\Npgsql.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\System.CodeDom.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\MyWebWithEF.BLL.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\MyWebWithEF.DAL.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\MyWebWithEF.BLL.pdb
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\bin\Debug\net8.0\MyWebWithEF.DAL.pdb
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\obj\Debug\net8.0\MyWebWithEF.csproj.AssemblyReference.cache
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\obj\Debug\net8.0\MyWebWithEF.GeneratedMSBuildEditorConfig.editorconfig
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\obj\Debug\net8.0\MyWebWithEF.AssemblyInfoInputs.cache
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\obj\Debug\net8.0\MyWebWithEF.AssemblyInfo.cs
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\obj\Debug\net8.0\MyWebWithEF.csproj.CoreCompileInputs.cache
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\obj\Debug\net8.0\MyWebWithEF.MvcApplicationPartsAssemblyInfo.cs
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\obj\Debug\net8.0\MyWebWithEF.MvcApplicationPartsAssemblyInfo.cache
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\obj\Debug\net8.0\scopedcss\bundle\MyWebWithEF.styles.css
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\obj\Debug\net8.0\staticwebassets.build.json
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\obj\Debug\net8.0\staticwebassets.development.json
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\obj\Debug\net8.0\staticwebassets\msbuild.MyWebWithEF.Microsoft.AspNetCore.StaticWebAssets.props
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\obj\Debug\net8.0\staticwebassets\msbuild.MyWebWithEF.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\obj\Debug\net8.0\staticwebassets\msbuild.build.MyWebWithEF.props
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MyWebWithEF.props
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MyWebWithEF.props
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\obj\Debug\net8.0\staticwebassets.pack.json
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\obj\Debug\net8.0\MyWebWit.AEFE2247.Up2Date
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\obj\Debug\net8.0\MyWebWithEF.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\obj\Debug\net8.0\refint\MyWebWithEF.dll
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\obj\Debug\net8.0\MyWebWithEF.pdb
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\obj\Debug\net8.0\MyWebWithEF.genruntimeconfig.cache
+D:\uni\web-appilcation\lab3_legacy\MyWebWithEF\obj\Debug\net8.0\ref\MyWebWithEF.dll
